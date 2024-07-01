@@ -86,5 +86,5 @@ Therefore, the SVM model is chosen as the best-suited model for student placemen
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
 
